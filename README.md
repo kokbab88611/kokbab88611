@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @kokbab88611
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm a Computer Science student at University of Minnesota (Minneapolis, MN). Building my skills toward becoming an ML/AI developer.
 
-<!---
-kokbab88611/kokbab88611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Interests
+- Machine Learning (XGBoost, neural networks, NLP, reinforcement learning)
+- Algorithmic trading & quantitative analysis
+- Full-stack development (React, Node.js, TypeScript)
+- Cybersecurity fundamentals
+- XR/AR technology
+
+### Currently Learning
+- Deep Learning & Transformer models
+- Linear Algebra for ML
+- JavaScript (improving proficiency)
+
+### Featured Projects
+- **[Moodi-Moo](https://github.com/kokbab88611/Moodi-Moo)** - Full-stack mood tracker with React 19, Express, PostgreSQL, Google OAuth
+- Trading bots using Python & real-time market data
+- XGBoost models for predictive analytics
+
+### Looking to Collaborate On
+- ML research projects or Kaggle competitions
+- AI-powered trading systems
+- UMN UROP opportunities in AI/ML
+- Open-source contributions in data science
+
+### Contact
+- [kokbab8861@gmail.com](mailto:kokbab8861@gmail.com)
