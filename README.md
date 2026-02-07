@@ -18,10 +18,8 @@ I'm a Computer Science student at University of Minnesota (Minneapolis, MN). Bui
 - XGBoost models for predictive analytics
 
 ### Looking to Collaborate On
-- ML research projects or Kaggle competitions
-- AI-powered trading systems
-- UMN UROP opportunities in AI/ML
-- Open-source contributions in data science
+- ML research projects
+- AI-powered quant trading systems
 
 ### Contact
 - [kokbab8861@gmail.com](mailto:kokbab8861@gmail.com)
